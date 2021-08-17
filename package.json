@@ -1,0 +1,24 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/pwa": "^3.3.5",
+    "core-js": "^3.15.1",
+    "nuxt": "^2.15.7",
+    "nuxt-buefy": "^0.4.8",
+    "view-design": "^4.6.1"
+  },
+  "devDependencies": {
+    "@nuxtjs/tailwindcss": "^4.2.1",
+    "autoprefixer": "^10.3.1",
+    "postcss": "^8.3.6",
+    "tailwindcss": "^2.2.7"
+  }
+}
