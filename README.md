@@ -1,4 +1,5 @@
 # resume
+![MasterCraft-Resume](resume.png)
 
 ## Build Setup
 
