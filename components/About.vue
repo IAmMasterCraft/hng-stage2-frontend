@@ -1,7 +1,7 @@
 <template>
     <div class="px-5 has-background-grey-light" style="border-radius: 0 0 30px 30px;">
         <figure class="image is-128x128" style="margin: -20% 30% 0 30%;">
-            <img class="is-rounded" src="~/assets/images/dp_pg.PNG">
+            <img class="is-rounded" src="~/assets/images/dp_pg.png">
         </figure>
         <h3 class="title is-3 mt-5 has-text-primary">
             Boluwaji AKINSEFUNMI <br />
