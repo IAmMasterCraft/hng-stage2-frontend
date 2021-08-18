@@ -8,23 +8,23 @@
             <span class="tag is-primary mb-5">Developer</span>
         </h3>
         <p class="subtitle has-text-grey-light">
-            <span class="has-text-grey">Phone:</span><br />
+            <span class="has-text-white">Phone:</span><br />
             +234 810 341 2973
         </p>
         <p class="subtitle has-text-grey-light">
-            <span class="has-text-grey">Email:</span><br />
+            <span class="has-text-white">Email:</span><br />
             bolu.akinsefunmi@gmail.com
         </p>
         <p class="subtitle has-text-grey-light">
-            <span class="has-text-grey">Website:</span><br />
+            <span class="has-text-white">Website:</span><br />
             https://github.com/IAmMasterCraft
         </p>
         <p class="subtitle has-text-grey-light">
-            <span class="has-text-grey">Location:</span><br />
+            <span class="has-text-white">Location:</span><br />
             Lagos State
         </p>
         <h4 class="title is-4 mt-6 has-text-primary">ABOUT ME</h4>
-        <p class="subtitle has-text-black pb-6">
+        <p class="subtitle has-text-grey-light pb-6">
             I am an easy-going and personally motivated individual with the ability to work as part of
             a team and independently on my own.
         </p>
